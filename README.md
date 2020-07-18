@@ -1,8 +1,8 @@
-# Chicago_datasets_with_SQL
+# Exploring_Chicago_datasets
 
-In this project I am going to explore some of the Chicago data set. Namely, the Socioeconomic Indicators, Public Schools and Crime Data from Chicago Data Portal.
+In this project I am going to explore some of the Chicago public data sets. Namely, the Socioeconomic Indicators, Public Schools and Crime Data from Chicago Data Portal.
 
-The goal is to use SQL queries to get some insights and connect the data of Health & Human Services, Education and Public Safety.
+The goal is to use to get some insights and connect the data of Health & Human Services, Education and Public Safety.
 
 These data sets could be found via the following links:
 
