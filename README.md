@@ -11,3 +11,10 @@ These data sets could be found via the following links:
 - Chicago Public Schools - Progress Report Cards, 2011-2012 (https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2)
 
 - Crimes - 2001 to Present (https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2)
+
+Last but not least, if you have any questions, suggestions, comments, or simply would like to connect and say "Hi!", please do so following the information below. 
+## I will be happy to hear from you!
+
+# Contacts
+
+- [LinkedIn](https://www.linkedin.com/in/ruslan-brilenkov/)
